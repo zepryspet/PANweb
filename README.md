@@ -11,3 +11,8 @@ Steps to see the configuration in the webpage:
 Notes:
 -The final file uses dragtable to move the columns https://github.com/akottr/dragtable, if you don't have internet access to download the repository that won't be possible.
 
+Know issues:
+-Not able to hide columns (thinking the better way to do it as an end user)
+-Not multi vsys capability (I don't need it but can be added with more logic)
+-Not able to see pofiles in security policies (I don't need it but can be added with more logic)
+-Just able to see security policies, I;m thinking about add NAT and objects to the final dump file.
