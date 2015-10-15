@@ -10,6 +10,7 @@ Steps to see the configuration in the webpage:
 
 Know issues:
 -Not able to hide columns (thinking the better way to do it as an end user)
+-Missing support for tags and disabled policies
 -Not multi vsys capability (I don't need it but can be added with more logic)
 -Not able to see pofiles in security policies (I don't need it but can be added with more logic)
 -Not able to see log action (I don't need it but can be added with more logic)
